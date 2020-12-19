@@ -1,84 +1,90 @@
+// Jungwoo, cão 1
 {
-"requests": [
-    {
-    "id": 0,
-    "category": { "id": 0, "name": "Dog"},
-    "name": "Jungwoo",
-    "photoUrls": ["string"],
-    "tags": [{"id": 0, "name": "Dog" }],
-    "status": "available"
-    },
-    {
-    "id": 0,
-    "category": { "id": 0, "name": "Dog"},
-    "name": "Taemin",
-    "photoUrls": ["string"],
-    "tags": [{"id": 0, "name": "Dog" }],
-    "status": "available"
-    },
-    {
-    "id": 0,
-    "category": { "id": 0, "name": "Dog"},
-    "name": "Kai",
-    "photoUrls": ["string"],
-    "tags": [{"id": 0, "name": "Dog" }],
-    "status": "available"
-    },
-    {
-    "id": 0,
-    "category": { "id": 0, "name": "Dog"},
-    "name": "Chen",
-    "photoUrls": ["string"],
-    "tags": [{"id": 0, "name": "Dog" }],
-    "status": "available"
-    },
-    {
-    "id": 0,
-    "category": { "id": 0, "name": "Dog"},
-    "name": "Jinki",
-    "photoUrls": ["string"],
-    "tags": [{"id": 0, "name": "Dog" }],
-    "status": "available"
-    },
-    {
-    "id": 0,
-    "category": { "id": 0, "name": "Cat"},
-    "name": "Irene",
-    "photoUrls": ["string"],
-    "tags": [{"id": 0, "name": "Cat" }],
-    "status": "available"
-    },
-    {
-    "id": 0,
-    "category": { "id": 0, "name": "Cat"},
-    "name": "Joy",
-    "photoUrls": ["string"],
-    "tags": [{"id": 0, "name": "Cat" }],
-    "status": "available"
-    },
-    {
-    "id": 0,
-    "category": { "id": 0, "name": "Cat"},
-    "name": "Solar",
-    "photoUrls": ["string"],
-    "tags": [{"id": 0, "name": "Cat" }],
-    "status": "available"
-    },
-    {
-    "id": 0,
-    "category": { "id": 0, "name": "Cat"},
-    "name": "Yoona",
-    "photoUrls": ["string"],
-    "tags": [{"id": 0, "name": "Cat" }],
-    "status": "available"
-    },
-    {
-    "id": 0,
-    "category": { "id": 0, "name": "Cat"},
-    "name": "Yuri",
-    "photoUrls": ["string"],
-    "tags": [{"id": 0, "name": "Cat" }],
-    "status": "available"
-    }
-]
+"id": 0,
+"category": { "id": 0, "name": "Dog"},
+"name": "Jungwoo",
+"photoUrls": ["string"],
+"tags": [{"id": 0, "name": "Dog" }],
+"status": "available"
+}
+// Taemin, cão 2
+{
+"id": 0,
+"category": { "id": 0, "name": "Dog"},
+"name": "Taemin",
+"photoUrls": ["string"],
+"tags": [{"id": 0, "name": "Dog" }],
+"status": "available"
+}
+// Kai, cão 3
+{
+"id": 0,
+"category": { "id": 0, "name": "Dog"},
+"name": "Kai",
+"photoUrls": ["string"],
+"tags": [{"id": 0, "name": "Dog" }],
+"status": "available"
+}
+// Chen, cão 4
+{
+"id": 0,
+"category": { "id": 0, "name": "Dog"},
+"name": "Chen",
+"photoUrls": ["string"],
+"tags": [{"id": 0, "name": "Dog" }],
+"status": "available"
+}
+// Jinki, cão 5
+{
+"id": 0,
+"category": { "id": 0, "name": "Dog"},
+"name": "Jinki",
+"photoUrls": ["string"],
+"tags": [{"id": 0, "name": "Dog" }],
+"status": "available"
+}
+// Irene, gato 1
+{
+"id": 0,
+"category": { "id": 0, "name": "Cat"},
+"name": "Irene",
+"photoUrls": ["string"],
+"tags": [{"id": 0, "name": "Cat" }],
+"status": "available"
+}
+// Joy, gato 2
+{
+"id": 0,
+"category": { "id": 0, "name": "Cat"},
+"name": "Joy",
+"photoUrls": ["string"],
+"tags": [{"id": 0, "name": "Cat" }],
+"status": "available"
+}
+// Solar, gato 3
+{
+"id": 0,
+"category": { "id": 0, "name": "Cat"},
+"name": "Solar",
+"photoUrls": ["string"],
+"tags": [{"id": 0, "name": "Cat" }],
+"status": "available"
+}
+// Yoona, gato 4
+{
+"id": 0,
+"category": { "id": 0, "name": "Cat"},
+"name": "Yoona",
+"photoUrls": ["string"],
+"tags": [{"id": 0, "name": "Cat" }],
+"status": "available"
+}
+// Yuri, gato 5
+{
+"id": 0,
+"category": { "id": 0, "name": "Cat"},
+"name": "Yuri",
+"photoUrls": ["string"],
+"tags": [{"id": 0, "name": "Cat" }],
+"status": "available"
 }
