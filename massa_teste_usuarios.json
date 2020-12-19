@@ -31,24 +31,24 @@
     "phone": "37666666666",
     "userStatus": 0
   }
-//Pessoa 4, priscila.fernandes
-  {
-    "id": 0,
-    "username": "priscila.fernandes",
-    "firstName": "priscila",
-    "lastName": "fernandes",
-    "email": "priscila.fernandes@teste.iterasys",
-    "password": "123456",
-    "phone": "37666666666",
-    "userStatus": 0
-  }
-//Pessoa 5, luana.fernandes
+//Pessoa 4, luana.fernandes
   {
     "id": 0,
     "username": "luana.fernandes",
     "firstName": "luana",
     "lastName": "fernandes",
     "email": "luana.fernandes@teste.iterasys",
+    "password": "123456",
+    "phone": "37666666666",
+    "userStatus": 0
+  }
+//Pessoa 5, lorena.fernandes
+  {
+    "id": 0,
+    "username": "lorena.fernandes",
+    "firstName": "lorena",
+    "lastName": "fernandes",
+    "email": "lorena.fernandes@teste.iterasys",
     "password": "123456",
     "phone": "37666666666",
     "userStatus": 0
