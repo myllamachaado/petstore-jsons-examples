@@ -1,0 +1,19 @@
+// Crie o pet Brutus (dog)
+{
+  "id": 0,
+  "category": {
+    "id": 0,
+    "name": "dog"
+  },
+  "name": "Brutus",
+  "photoUrls": [
+    "https://www.wikihow.com/images_en/thumb/d/d7/German-shepherd-3712038_1280.jpg/v4-460px-German-shepherd-3712038_1280.jpg"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "dog"
+    }
+  ],
+  "status": "available"
+}
