@@ -8,3 +8,4 @@ var status_venda_brutus_delivered = pm.variables.get('status_venda_brutus_delive
         (pm.expect(status_venda_brutus_delivered).to.eql('delivered'))){
         console.log('Status da venda trocado com sucesso');
     }
+}
