@@ -1,9 +1,8 @@
 // Faça a venda do Brutus para a Maria Assunção
 {
-  "id": 0,
-  "petId": 0,
-  "quantity": 0,
-  "shipDate": "2020-12-18T23:36:06.404Z",
+  "petId": "{{id_brutus}}",
+  "quantity": 1,
+  "shipDate": "2020-12-19T05:47:00.916Z",
   "status": "placed",
   "complete": true
 }
