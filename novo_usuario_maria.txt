@@ -1,0 +1,11 @@
+//Crie a usuaria Maria Assunção
+{
+  "id": 0,
+  "username": "maria.assuncao1",
+  "firstName": "maria",
+  "lastName": "assunção",
+  "email": "maria.assuncao1@iterasys.teste.br",
+  "password": "123456",
+  "phone": "31777777777",
+  "userStatus": 0
+}
