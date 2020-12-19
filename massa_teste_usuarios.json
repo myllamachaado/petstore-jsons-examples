@@ -1,0 +1,51 @@
+// 5 logins
+{
+  "id": 0,
+  "username": "marcio.fernandes",
+  "firstName": "marcio",
+  "lastName": "fernandes",
+  "email": "marcio.fernandes@teste.iterasys",
+  "password": "123456",
+  "phone": "37666666666",
+  "userStatus": 0
+}
+{
+  "id": 0,
+  "username": "lucas.fernandes",
+  "firstName": "lucas",
+  "lastName": "fernandes",
+  "email": "lucas.fernandes@teste.iterasys",
+  "password": "123456",
+  "phone": "37666666666",
+  "userStatus": 0
+}
+{
+  "id": 0,
+  "username": "karina.fernandes",
+  "firstName": "karina",
+  "lastName": "fernandes",
+  "email": "karina.fernandes@teste.iterasys",
+  "password": "123456",
+  "phone": "37666666666",
+  "userStatus": 0
+}
+{
+  "id": 0,
+  "username": "priscila.fernandes",
+  "firstName": "priscila",
+  "lastName": "fernandes",
+  "email": "priscila.fernandes@teste.iterasys",
+  "password": "123456",
+  "phone": "37666666666",
+  "userStatus": 0
+}
+{
+  "id": 0,
+  "username": "luana.fernandes",
+  "firstName": "luana",
+  "lastName": "fernandes",
+  "email": "luana.fernandes@teste.iterasys",
+  "password": "123456",
+  "phone": "37666666666",
+  "userStatus": 0
+}
