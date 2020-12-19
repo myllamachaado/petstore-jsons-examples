@@ -1,5 +1,4 @@
-{
-  "requests":[
+//Pessoa 1, marcio.fernandes
   {
     "id": 0,
     "username": "marcio.fernandes",
@@ -9,7 +8,8 @@
     "password": "123456",
     "phone": "37666666666",
     "userStatus": 0
-  },
+  }
+ //Pessoa 2, lucas.fernandes
   {
     "id": 0,
     "username": "lucas.fernandes",
@@ -19,7 +19,8 @@
     "password": "123456",
     "phone": "37666666666",
     "userStatus": 0
-  },
+  }
+ //Pessoa 3, karina.fernandes
   {
     "id": 0,
     "username": "karina.fernandes",
@@ -29,7 +30,8 @@
     "password": "123456",
     "phone": "37666666666",
     "userStatus": 0
-  },
+  }
+//Pessoa 4, priscila.fernandes
   {
     "id": 0,
     "username": "priscila.fernandes",
@@ -39,7 +41,8 @@
     "password": "123456",
     "phone": "37666666666",
     "userStatus": 0
-  },
+  }
+//Pessoa 5, luana.fernandes
   {
     "id": 0,
     "username": "luana.fernandes",
@@ -50,5 +53,3 @@
     "phone": "37666666666",
     "userStatus": 0
   }
-]
-}
