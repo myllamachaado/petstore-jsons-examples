@@ -1,182 +1,84 @@
-// 5 cães
 {
-  "id": 0,
-  "category": {
-    "id": 0,
-    "name": "dog"
-  },
-  "name": "Jungwoo",
-  "photoUrls": [
-    "string"
-  ],
-  "tags": [
+"requests": [
     {
-      "id": 0,
-      "name": "dog"
-    }
-  ],
-  "status": "available"
-}
-{
-  "id": 0,
-  "category": {
     "id": 0,
-    "name": "dog"
-  },
-  "name": "Taemin",
-  "photoUrls": [
-    "string"
-  ],
-  "tags": [
+    "category": { "id": 0, "name": "Dog"},
+    "name": "Jungwoo",
+    "photoUrls": ["string"],
+    "tags": [{"id": 0, "name": "Dog" }],
+    "status": "available"
+    },
     {
-      "id": 0,
-      "name": "dog"
-    }
-  ],
-  "status": "available"
-}
-{
-  "id": 0,
-  "category": {
     "id": 0,
-    "name": "dog"
-  },
-  "name": "Kai",
-  "photoUrls": [
-    "string"
-  ],
-  "tags": [
+    "category": { "id": 0, "name": "Dog"},
+    "name": "Taemin",
+    "photoUrls": ["string"],
+    "tags": [{"id": 0, "name": "Dog" }],
+    "status": "available"
+    },
     {
-      "id": 0,
-      "name": "dog"
-    }
-  ],
-  "status": "available"
-}
-{
-  "id": 0,
-  "category": {
     "id": 0,
-    "name": "dog"
-  },
-  "name": "Chen",
-  "photoUrls": [
-    "string"
-  ],
-  "tags": [
+    "category": { "id": 0, "name": "Dog"},
+    "name": "Kai",
+    "photoUrls": ["string"],
+    "tags": [{"id": 0, "name": "Dog" }],
+    "status": "available"
+    },
     {
-      "id": 0,
-      "name": "dog"
-    }
-  ],
-  "status": "available"
-}
-{
-  "id": 0,
-  "category": {
     "id": 0,
-    "name": "dog"
-  },
-  "name": "Jinki",
-  "photoUrls": [
-    "string"
-  ],
-  "tags": [
+    "category": { "id": 0, "name": "Dog"},
+    "name": "Chen",
+    "photoUrls": ["string"],
+    "tags": [{"id": 0, "name": "Dog" }],
+    "status": "available"
+    },
     {
-      "id": 0,
-      "name": "dog"
-    }
-  ],
-  "status": "available"
-}
-// 5 gatos
-{
-  "id": 0,
-  "category": {
     "id": 0,
-    "name": "cat"
-  },
-  "name": "Irene",
-  "photoUrls": [
-    "string"
-  ],
-  "tags": [
+    "category": { "id": 0, "name": "Dog"},
+    "name": "Jinki",
+    "photoUrls": ["string"],
+    "tags": [{"id": 0, "name": "Dog" }],
+    "status": "available"
+    },
     {
-      "id": 0,
-      "name": "cat"
-    }
-  ],
-  "status": "available"
-}
-{
-  "id": 0,
-  "category": {
     "id": 0,
-    "name": "cat"
-  },
-  "name": "Joy",
-  "photoUrls": [
-    "string"
-  ],
-  "tags": [
+    "category": { "id": 0, "name": "Cat"},
+    "name": "Irene",
+    "photoUrls": ["string"],
+    "tags": [{"id": 0, "name": "Cat" }],
+    "status": "available"
+    },
     {
-      "id": 0,
-      "name": "cat"
-    }
-  ],
-  "status": "available"
-}
-{
-  "id": 0,
-  "category": {
     "id": 0,
-    "name": "cat"
-  },
-  "name": "Solar",
-  "photoUrls": [
-    "string"
-  ],
-  "tags": [
+    "category": { "id": 0, "name": "Cat"},
+    "name": "Joy",
+    "photoUrls": ["string"],
+    "tags": [{"id": 0, "name": "Cat" }],
+    "status": "available"
+    },
     {
-      "id": 0,
-      "name": "cat"
-    }
-  ],
-  "status": "available"
-}
-{
-  "id": 0,
-  "category": {
     "id": 0,
-    "name": "cat"
-  },
-  "name": "Yoona",
-  "photoUrls": [
-    "string"
-  ],
-  "tags": [
+    "category": { "id": 0, "name": "Cat"},
+    "name": "Solar",
+    "photoUrls": ["string"],
+    "tags": [{"id": 0, "name": "Cat" }],
+    "status": "available"
+    },
     {
-      "id": 0,
-      "name": "cat"
-    }
-  ],
-  "status": "available"
-}
-{
-  "id": 0,
-  "category": {
     "id": 0,
-    "name": "cat"
-  },
-  "name": "Yuri",
-  "photoUrls": [
-    "string"
-  ],
-  "tags": [
+    "category": { "id": 0, "name": "Cat"},
+    "name": "Yoona",
+    "photoUrls": ["string"],
+    "tags": [{"id": 0, "name": "Cat" }],
+    "status": "available"
+    },
     {
-      "id": 0,
-      "name": "cat"
+    "id": 0,
+    "category": { "id": 0, "name": "Cat"},
+    "name": "Yuri",
+    "photoUrls": ["string"],
+    "tags": [{"id": 0, "name": "Cat" }],
+    "status": "available"
     }
-  ],
-  "status": "available"
+]
 }
